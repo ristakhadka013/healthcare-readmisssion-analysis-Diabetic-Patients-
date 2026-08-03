@@ -1,0 +1,6 @@
+data/
+*.xlsx
+*.csv
+~$*.xlsx
+*.tmp
+panda/.ipynb_checkpoints/
